@@ -19,7 +19,7 @@ Building for the web, automating with AI agents, and getting my hands dirty with
 
 Web developer with a backend focus and a growing obsession with data and applied AI. I build practical, self-hostable tools and wire autonomous agents into real workflows.
 
-Outside the browser I explore lower-level systems — game internals, injection tooling, and protocol analysis — where the interesting engineering problems live.
+Outside the browser I explore lower-level systems  game internals, injection tooling, and protocol analysis  where the interesting engineering problems live.
 
 ---
 
@@ -71,9 +71,9 @@ Outside the browser I explore lower-level systems — game internals, injection 
 
 </div>
 
-**Hermes-Gateway** — Self-hosted admin panel for Hermes Agent: one-click Railway deploy, gateway supervision, built-in SSH, provider & channel management from a web dashboard.
+**Hermes-Gateway**  Self-hosted admin panel for Hermes Agent: one-click Railway deploy, gateway supervision, built-in SSH, provider & channel management from a web dashboard.
 
-**[HEARTOPIA-DOPAMINE](https://github.com/MisthiosOG/HEARTOPIA-DOPAMINE)** — Systems-level exploration into a game's internals: DirectX 11 hooking, ImGui overlays, injection tooling, and automated gameplay modules. \`(private)\`
+
 
 
 ---
