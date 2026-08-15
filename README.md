@@ -51,12 +51,12 @@ Building things for the web and playing around with data & AI on the side.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MisthiosOG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisthiosOG&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MisthiosOG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MisthiosOG&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MisthiosOG&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=MisthiosOG&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -66,7 +66,7 @@ Building things for the web and playing around with data & AI on the side.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MisthiosOG&theme=tokyo-night&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=MisthiosOG&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -76,11 +76,8 @@ Building things for the web and playing around with data & AI on the side.
 
 <div align="center">
 
-<a href="https://github.com/MisthiosOG/repo-name-1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MisthiosOG&repo=repo-name-1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/MisthiosOG/repo-name-2">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MisthiosOG&repo=repo-name-2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/MisthiosOG/Hermes-Gateway">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MisthiosOG&repo=Hermes-Gateway&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
