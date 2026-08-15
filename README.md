@@ -1,11 +1,9 @@
-<div align="center">
-
-<img src="img/profile.jpg" alt="iPowfu profile" align="left" height="180" />
-<img src="img/banner.jpg" alt="iPowfu banner" align="right" height="180" width="600" />
-
-</div>
-
-### &nbsp;
+<table align="center">
+  <tr>
+    <td align="center"><img src="img/profile.jpg" alt="iPowfu" height="220" /></td>
+    <td align="center"><img src="img/banner.jpg" alt="banner" height="220" /></td>
+  </tr>
+</table>
 
 # iPowFu
 
