@@ -6,10 +6,9 @@
 
 Building for the web, automating with AI agents, and getting my hands dirty with systems-level code.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MisthiosOG)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MisthiosOG)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MisthiosOG)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/MisthiosOG)
+[![GitHub followers](https://img.shields.io/github/followers/MisthiosOG?style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/MisthiosOG)
+[![Repos](https://img.shields.io/badge/Repositories-3-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/MisthiosOG?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=MisthiosOG&style=for-the-badge&color=6D28D9&label=Profile+Views)](https://github.com/MisthiosOG)
 
 </div>
 
@@ -17,9 +16,9 @@ Building for the web, automating with AI agents, and getting my hands dirty with
 
 ## About
 
-Web developer with a backend focus and a growing obsession with data and applied AI. I build practical, self-hostable tools and wire autonomous agents into real workflows.
+Web developer with a backend focus and a growing obsession with data and applied AI. I build practical, self-hostable tools, wire autonomous agents into real workflows, and dig into the systems-level problems that make software interesting.
 
-Outside the browser I explore lower-level systems  game internals, injection tooling, and protocol analysis  where the interesting engineering problems live.
+When I am not shipping web apps, I am exploring game internals, injection tooling, and protocol analysis — because that is where the fun engineering lives.
 
 ---
 
@@ -61,6 +60,16 @@ Outside the browser I explore lower-level systems  game internals, injection too
 
 ---
 
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MisthiosOG&theme=react-dark&hide_border=true" width="100%" />
+
+</div>
+
+---
+
 ## Featured Projects
 
 <div align="center">
@@ -71,10 +80,9 @@ Outside the browser I explore lower-level systems  game internals, injection too
 
 </div>
 
-**Hermes-Gateway**  Self-hosted admin panel for Hermes Agent: one-click Railway deploy, gateway supervision, built-in SSH, provider & channel management from a web dashboard.
+**Hermes-Gateway** — Self-hosted admin panel for Hermes Agent: one-click Railway deploy, gateway supervision, built-in SSH, provider & channel management from a web dashboard.
 
-
-
+**[HEARTOPIA-DOPAMINE](https://github.com/MisthiosOG/HEARTOPIA-DOPAMINE)** — Systems-level exploration into a game's internals: DirectX 11 hooking, ImGui overlays, injection tooling, and automated gameplay modules. `(private)`
 
 ---
 
@@ -91,10 +99,6 @@ Outside the browser I explore lower-level systems  game internals, injection too
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MisthiosOG&style=flat-square&color=6D28D9&label=Profile+Views)
-
-<br/>
 
 <sub>© iPowFu · Built one commit at a time.</sub>
 
