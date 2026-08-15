@@ -66,17 +66,15 @@ Outside the browser I explore lower-level systems — game internals, injection 
 <div align="center">
 
 <a href="https://github.com/MisthiosOG/Hermes-Gateway">
-  <img height="130" src="https://github-readme-stats-omega-cyan.vercel.app/api/pin/?username=MisthiosOG&repo=Hermes-Gateway&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/MisthiosOG/HEARTOPIA-DOPAMINE">
-  <img height="130" src="https://github-readme-stats-omega-cyan.vercel.app/api/pin/?username=MisthiosOG&repo=HEARTOPIA-DOPAMINE&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-omega-cyan.vercel.app/api/pin/?username=MisthiosOG&repo=Hermes-Gateway&theme=radical&hide_border=true" />
 </a>
 
 </div>
 
 **Hermes-Gateway** — Self-hosted admin panel for Hermes Agent: one-click Railway deploy, gateway supervision, built-in SSH, provider & channel management from a web dashboard.
 
-**HEARTOPIA-DOPAMINE** — Systems-level exploration into a game's internals: DirectX 11 hooking, ImGui overlays, injection tooling, and automated gameplay modules.
+**[HEARTOPIA-DOPAMINE](https://github.com/MisthiosOG/HEARTOPIA-DOPAMINE)** — Systems-level exploration into a game's internals: DirectX 11 hooking, ImGui overlays, injection tooling, and automated gameplay modules. \`(private)\`
+
 
 ---
 
