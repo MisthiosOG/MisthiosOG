@@ -69,11 +69,15 @@ Web developer with a backend focus and a growing obsession with data and applied
 
 ## Arcade
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MisthiosOG/MisthiosOG/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MisthiosOG/MisthiosOG/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/MisthiosOG/MisthiosOG/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/MisthiosOG/MisthiosOG/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble" width="100%">
 </picture>
+
+</div>
 
 ---
 
