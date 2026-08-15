@@ -80,8 +80,13 @@ Outside the browser I explore lower-level systems — game internals, injection 
 
 ## Contact
 
-- GitHub: [@MisthiosOG](https://github.com/MisthiosOG)
-- Email: available on request
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MisthiosOG)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ipowfu.vm)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dieforcringes)
+
+</div>
 
 ---
 
