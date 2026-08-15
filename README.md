@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="img/profile.png" alt="iPowfu profile" align="left" height="180" />
-<img src="img/banner.png" alt="iPowfu banner" align="right" height="180" width="600" />
+<img src="img/profile.jpg" alt="iPowfu profile" align="left" height="180" />
+<img src="img/banner.jpg" alt="iPowfu banner" align="right" height="180" width="600" />
 
 </div>
 
