@@ -49,14 +49,8 @@ When I am not shipping web apps, I am exploring game internals, injection toolin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-omega-cyan.vercel.app/api?username=MisthiosOG&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats-omega-cyan.vercel.app/api/top-langs/?username=MisthiosOG&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
+<img height="170" src="https://github-readme-stats-omega-cyan.vercel.app/api?username=MisthiosOG&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-omega-cyan.vercel.app/api/top-langs/?username=MisthiosOG&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
